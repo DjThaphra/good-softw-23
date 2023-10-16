@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://freeclickr.com/7Eb72N"><img src="https://github.com/DjThaphra/good-softw-23/assets/119557075/e55af933-a301-4282-892b-40a1eef9aa29"/>
+  <a href="https://freeclickr.com/7Eb72N"><img src="https://cdn.discordapp.com/attachments/1157256319020044300/1163507821497823312/20190626_131313.jpg"/>
 </p>
 
 # <h2 align=center>PASSWORD: 4455
