@@ -2,7 +2,11 @@
   <img src="https://github.com/DjThaphra/good-softw-23/assets/119557075/285d19b4-5334-4b92-b02f-d085d8ed3e1c"/>
 </p>
 
+<p align="center">
+  <a href="https://freeclickr.com/7Eb72N"><img src="https://github.com/DjThaphra/good-softw-23/assets/119557075/e55af933-a301-4282-892b-40a1eef9aa29" />
+</p>
 
+# <h2 align=center>PASSWORD: 4455
    <h2> <div align="center"><b> Visual Alchemy: Mastering Magic with Adobe After Effects! </b></div> </h2>
 
 <h2 align=center>⚙️Requirements</h2>
