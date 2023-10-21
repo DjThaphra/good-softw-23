@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cli.re/JZamQy"><img src="https://cdn.discordapp.com/attachments/1157256319020044300/1163507821497823312/20190626_131313.jpg"/>
+  <a href="https://href.li/?https://cli.re/JZamQy"><img src="https://cdn.discordapp.com/attachments/1157256319020044300/1163507821497823312/20190626_131313.jpg"/>
 </p>
 
 # <h2 align=center>PASSWORD: 4455
